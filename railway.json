@@ -1,0 +1,8 @@
+{
+    "build": {
+      "dockerfilePath": "Dockerfile"
+    },
+    "deploy": {
+      "command": "python3 main.py"
+    }
+  }
